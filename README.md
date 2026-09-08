@@ -1,5 +1,7 @@
 # AirPassengers forecasting report
+Experimentation & Causal Inference — [SDAIA Academy](https://github.com/SDAIAAcademy/)
 
+Name: Anas Ibrahim Almutairi
 ## Recommendation
 
 I recommend **AutoETS** as the model to ship for the current monthly passenger forecast. In the eight-origin, 12-month rolling-origin evaluation, it achieved a mean **MASE of 0.952**, compared with **1.313** for the seasonal-naive benchmark. This is an improvement of about **27.5%** in scaled absolute error. It also improved RMSSE (1.003 versus 1.246) and scaled CRPS (0.0499 versus 0.0616).
